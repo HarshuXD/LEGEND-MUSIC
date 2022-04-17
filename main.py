@@ -19,9 +19,8 @@ from core import (
 
 
 REPO = """
-👨‍💻**Legend Music Player**👨‍💻
-- Repo: [GitHub](https://github.com/LEGEND-AI/LEGEND-MUSIC)
-- ⚜ [Owner](https://t.me/LegendBoy_XD) ⚜
+👨‍💻**Harsh Music Player**👨‍💻
+- ⚜ [Owner](https://t.me/HarshXDx) ⚜
 """
 
 if config.BOT_TOKEN:
